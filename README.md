@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=whitehttps://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whitehttps://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=whitehttps://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge
+![Language: C++](https://img.shields.io/badge/Language-C%2B%2B-blue?logo=c%2B%2B&logoColor=white) ![IDE: Arduino](https://img.shields.io/badge/IDE-Arduino-00979D?logo=arduino&logoColor=white) ![Platform: ESP32-S2](https://img.shields.io/badge/Platform-ESP32--S2-df2a2a?logo=espressif&logoColor=white)
 
 🐉 EJDER V2.1 - Ultimate ESP32 Pentest Tool
 EJDER V2.1 is a high-performance wireless security testing framework developed for the ESP32 microcontroller. It focuses on auditing Wi-Fi network resilience through advanced 802.11 frame injection, including deauthentication, beacon flooding, and probe request management.
