@@ -213,7 +213,7 @@ String getHTML() {
 void setup() {
   Serial.begin(115200);
   WiFi.mode(WIFI_AP);
-  WiFi.softAP("EJDER_ULTIMATE", "EJDERYAespgem32");
+  WiFi.softAP("EJDER_ULTIMATE", "EJDERYA32");
 
   server.on("/", HTTP_GET, []() { server.send(200, "text/html", getHTML()); });
   
